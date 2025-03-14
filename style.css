@@ -1,3 +1,10 @@
-p {
-    color:aqua
+header {
+    border-bottom: solid 2px rgb(228, 169, 42);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(228, 225, 42);
+}
+
+.cabecalho {
+    background-color: rgb(255, 255, 255);
 }
